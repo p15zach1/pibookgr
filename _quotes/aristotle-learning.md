@@ -1,6 +1,6 @@
 ---
 title: estée-lauder-success
-text: 'I never dreamed about success i worked for it'
+text: 'I never dreamed about success i worked for it.'
 person: Estée Lauder
 layout: quote
 header: no
