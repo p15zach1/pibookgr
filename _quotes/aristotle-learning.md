@@ -1,7 +1,7 @@
 ---
-title: aristotle-learning
-text: 'Τα πράγματα που πρέπει να κάνεις τα μαθαίνεις κάνοντάς τα.'
-person: Αριστοτέλης
+title: estée-lauder-success
+text: 'i never dreamed about success i worked for it'
+person: Estée Lauder
 layout: quote
 header: no
 show_meta: false
@@ -9,5 +9,5 @@ categories:
   - quotes
 tags:
   - method
-  - Aristotle
+  - Estée Lauder
 ---
