@@ -8,6 +8,6 @@ show_meta: false
 categories:
   - quotes
 tags:
-  - computer science
+  - computer-science
   - Steve Jobs
 ---
