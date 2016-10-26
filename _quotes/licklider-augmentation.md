@@ -1,13 +1,13 @@
 ---
-title: licklider-augmentation
-text: 'Ελπίζουμε ότι, σε όχι πάρα πολλά χρόνια, τα ανθρώπινα μυαλά και οι υπολογιστικές μηχανές θα συνδεθούν πολύ στενά μεταξύ τους, και ότι η συνεργασία που θα προκύψει θα σκέφτεται όπως δεν έχει σκεφτεί ποτέ ο ανθρώπινος εγκέφαλος και θα επεξεργάζεται τα δεδομένα με τρόπο που δεν έχουν πλησιάσει οι μηχανές διαχείρισης της πληροφορίας που γνωρίζουμε σήμερα.'
-person: J. C. R. Licklider
+title: turing-AI
+text: 'I believe that at the end of the century the use of words and general educated opinion will have altered so much that one will be able to speak of machines thinking without expecting to be contradicted.'
+person: Alan Turing
 layout: quote
 header: no
 show_meta: false
 categories:
   - quotes
 tags:
-  - synthesis
-  - J. C. R. Licklider
+  - artificial intelligence
+  - Alan Turing
 ---
